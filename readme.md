@@ -16,8 +16,8 @@ This is a Hello World app for a module sold on eBay: "ESP8266 0.96inch OLED Cloc
 
 5. Connect USB to RS232 3.3v module: GND -> GND, RxD -> TxD, TxD -> RxD. And connect IO0 to GND on the board, there is extra GND pin on the board.
 
-6. Plug USB.
+6. Plug power USB.
 
 7. Build and upload.
 
-8. Disconnect IO0, and unplug and replug USB to run the code.
+8. Disconnect IO0, and unplug and replug power USB to run the code.
