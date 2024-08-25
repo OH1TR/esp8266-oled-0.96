@@ -19,3 +19,5 @@ This is a Hello World app for a module sold on eBay: "ESP8266 0.96inch OLED Cloc
 6. Plug USB.
 
 7. Build and upload.
+
+8. Disconnect IO0, and unplug and replug USB to run the code.
